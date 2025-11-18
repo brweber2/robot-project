@@ -39,6 +39,8 @@ Our robot is round and uses 3 wheels.
 
 ##### Wheel Assembly
 
+For additional diagrams see the source project on [Thingiverse](https://www.thingiverse.com/thing:6175379)
+
 * 3D print the parts - please note that this will take quite some time. 
   * 3 rims
   * 2 side right

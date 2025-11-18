@@ -2,20 +2,21 @@
 
 Documentation for robot build out (hardware and software).
 
+## Books
+
 This is a mix of various open source projects and a couple of books.
 
 * [Build Your Own Robot: Using Python, CRICKIT, and Raspberry PI](https://www.amazon.com/Build-Your-Own-Robot-Raspberry/dp/1633438457)
   * NOTE: that this project does NOT use a CRICKIT but this book is a good starting point to learn robotics concepts
 * [Make: Robotic Arms](https://www.amazon.com/Make-Robotic-Arms-Matthew-Eaton/dp/1680458434)
   * code on GITHUB: https://github.com/ACBRrobotics/Make_Robotic_Arms
+* [ROS 2 From Scratch](https://www.amazon.com/ROS-Scratch-started-robotics-applications/dp/B0DJCFC29Q)
 
-## Hardware
-
-Much of this is from existing open source files.
+## General Notes
 
 ### Utilities
 
-* Convert DXF files to STL: https://imagetostl.com/convert/file/dxf/to/stl
+* [Convert DXF files to STL](https://imagetostl.com/convert/file/dxf/to/stl)
 
 ### Tools Required
 
@@ -34,6 +35,11 @@ You do not need the specific tools linked, I've just included them for convenien
 
 * [Orca Slicer](https://orca-slicer.com/)
 * [Arduino IDE](https://www.arduino.cc/en/software/)
+* [ROS 2](https://www.ros.org/)
+
+## Hardware
+
+Much of this is from existing open source files. They are linked whenever a file was included.
 
 ### Chassis
 
