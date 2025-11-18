@@ -27,7 +27,7 @@ There was no way to connect the wheel to the motor so I had Claude Code generate
 
 Our robot is round and uses 3 wheels.
 
-* [Rim](3d_prints/wheel/rim.stl) 1 / wheel, 3 total.
+* [Rim](3d_prints/wheel/RIM.stl) 1 / wheel, 3 total.
 * [Left Side](3d_prints/wheel/side_L.stl) 2 / wheel. 2 total.
   * NOTE: The STL file on thingiverse has 5 holes which does NOT match the 6 holes on the Rim and on the Right side. I've inverted the right side to make a left side with 6 holes and that is the link I provide here.
 * [Right Side](3d_prints/wheel/side_R.stl) 2 / wheel. 4 total.
