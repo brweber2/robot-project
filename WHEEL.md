@@ -69,7 +69,8 @@ For additional diagrams see the source project on [Thingiverse](https://www.thin
       * add a M3 lock nut
   * secure the rim to the sides using M5 12mm screws. Be sure to secure it to both sides.
   * slide the torque cap into the rim (it will only fit on the side with grooves)
-  * Use the 90mm bolts, M4 washers and M4 lock nuts to fasten the front adapter to the torque cap and the back adapter (which goes on the opposite side as the torque cap). The front adapter has a hole in the middle for the motor's d-shaft and is smaller in diameter than the back adapter.
+  * Use the 90mm bolts and M4 lock nuts to fasten the front adapter to the torque cap and the back adapter (which goes on the opposite side as the torque cap). The front adapter has a hole in the middle for the motor's d-shaft and is smaller in diameter than the back adapter.
+  I put the nuts in the back adapter and the bolts through the front adapter. Once the bolts are in the recessed holes in the front adapter use a M4 allen wrench to tighten them. 
 
   
 
